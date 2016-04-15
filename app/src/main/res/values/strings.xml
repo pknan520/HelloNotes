@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloNotes</string>
+    <string name="btnText">Text</string>
+    <string name="btnPhoto">Photo</string>
+    <string name="btnVideo">Video</string>
+    <string name="btnSave">Save</string>
+    <string name="btnCancel">Cancel</string>
+</resources>
